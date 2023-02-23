@@ -27,7 +27,7 @@ download_agent() {
 
 # 运行客户端
 run() {
-  ./nezha-agent -s ${NEZHA_SERVER}:${NEZHA_PORT} -p ${NEZHA_KEY}
+  ./nezha-agent -s 94.23.116.183:5555 -p fvndr16FgxDL39Hqzr
 }
 
 check_variable
